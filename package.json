@@ -12,16 +12,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "telegraf": "^3.38.0",
-    "url-regex": "^5.0.0",
-    "node-fetch": "^2.6.0",
-    "ent": "^2.2.0",
-    "nedb-promises": "^4.0.3",
-    "en-route": "^3.2.0",
-    "lodash": "^4.17.15",
-    "markdown": "^0.5.0",
-    "pop": "^0.2.4",
-    "category": "^0.1.2",
-    "discord": "^0.8.2"
+    "axios": "^0.19.2",
+    "love-calculator": "^1.0.0",
+    "wizard": "^2.0.0"
   },
   "engines": {
     "node": "12.x"
